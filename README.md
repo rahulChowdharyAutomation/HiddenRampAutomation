@@ -12,3 +12,6 @@ HiddenRampAutomation/HiddenRamp/src/main/java/com/utils/TestMethodSetup.java
 
 code for reading data from excel sheet is inside :
 HiddenRampAutomation/HiddenRamp/src/main/java/com/utils/TestCaseReader.java
+
+code for HIGH LEVEL AND LOW LEVEL reporting i.e LOG4J & EXTENTREPORT is inside :
+HiddenRampAutomation/HiddenRamp/src/main/java/com/log/

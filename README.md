@@ -2,10 +2,10 @@
 This repository contains my selenium automation project while working in the company called HiddenRamp pvt. ltd.
 
 all the test scripts mapping with each test case is inside :
-HiddenRamp/src/test/java/com/hiddenRamp/HiddenRamp/
+    HiddenRamp/src/test/java/com/hiddenRamp/HiddenRamp/
 
 all the actions performed like CLICK, SENDKEYS, NAVIGATE URL is inside :
-HiddenRamp/src/main/java/com/utils/commonFunction.java
+    HiddenRamp/src/main/java/com/utils/commonFunction.java
 
 all the xpath's related to the HIDDENRAMP website is inside :
 HiddenRamp/src/main/java/com/ObjectRepository/OR.java

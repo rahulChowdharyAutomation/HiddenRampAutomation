@@ -9,3 +9,6 @@ HiddenRampAutomation/HiddenRamp/src/main/java/com/utils/commonFunction.java
 
 code for opening Browser like CHROME and FIREFOX is inside :
 HiddenRampAutomation/HiddenRamp/src/main/java/com/utils/TestMethodSetup.java
+
+code for reading data from excel sheet is inside :
+HiddenRampAutomation/HiddenRamp/src/main/java/com/utils/TestCaseReader.java

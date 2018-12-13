@@ -18,3 +18,6 @@ HiddenRampAutomation/HiddenRamp/src/main/java/com/utils/TestCaseReader.java
 
 code for HIGH LEVEL AND LOW LEVEL reporting i.e LOG4J & EXTENTREPORT is inside :
 HiddenRampAutomation/HiddenRamp/src/main/java/com/log/
+
+the maven dependency file i.e POM.XML is inside :
+HiddenRampAutomation/HiddenRamp/pom.xml

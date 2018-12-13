@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Regression Testing"      >
+
+<test  name="First Reagression test"   >
+
+<classes>
+
+<class name="com.hiddenRamp.HiddenRamp.TC_01"/>
+<class name="com.hiddenRamp.HiddenRamp.TC_02"/>
+<class name="com.hiddenRamp.HiddenRamp.TC_03"/>
+<class name="com.hiddenRamp.HiddenRamp.TC_04"/>
+<class name="com.hiddenRamp.HiddenRamp.TC_05"/>
+<class name="com.hiddenRamp.HiddenRamp.TC_06"/>
+<class name="com.hiddenRamp.HiddenRamp.TC_07"/>
+<class name="com.hiddenRamp.HiddenRamp.TC_08"/>
+<class name="com.hiddenRamp.HiddenRamp.TC_09"/>
+
+
+</classes>
+
+</test>
+
+
+</suite>

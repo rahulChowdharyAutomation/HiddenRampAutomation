@@ -1,8 +1,8 @@
 # HiddenRampAutomation
 This repository contains my selenium automation project while working in the company called HiddenRamp pvt. ltd.
 
-ALL THE SCRIPTS MAPPING WITH EACH TEST CASE ARE INSIDE :
+all the test scripts mapping with each test case is inside :
 HiddenRampAutomation/HiddenRamp/src/test/java/com/hiddenRamp/HiddenRamp/
 
-ALL THE CONSTANTS AND XPATH USED ARE INSIDE :
-
+all the actions performed like CLICK, SENDKEYS, NAVIGATE URL is inside :
+HiddenRampAutomation/HiddenRamp/src/main/java/com/utils/commonFunction.java
